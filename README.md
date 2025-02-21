@@ -6,3 +6,4 @@ we have imported some libraries { CV2, OS, STRING }.
 stego py need cv2 lib.
 Before executing the code, make sure you install the cv2 in the cmd using  " pip install cv2 "
 Then you can see an encryptedimage is created that contains the message inside the image.
+If you check both the images, you won't find any differences in between them ,making it difficult to detect if any of the image contain any information.
